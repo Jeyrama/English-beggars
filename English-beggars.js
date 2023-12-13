@@ -16,3 +16,6 @@ length can be even shorter, in which case the last beggars will of course take n
 
 Note: do not modify the input array.
 */
+
+
+// Solution
